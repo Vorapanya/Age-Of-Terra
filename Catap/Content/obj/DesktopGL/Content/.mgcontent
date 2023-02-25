@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/../../../../../Downloads/Click.wav</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/1024px-Light_Blue_Circle.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Atk/1Attack.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Atk/2Attack.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Atk/3Attack.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Atk/4Attack.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Atk/5Attack.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Atk/EleAttack.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Atk/SummonerAttack.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/Background1.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/Background2.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/Background3.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/Background4.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/bgMenu.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/GameOverBackground.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/HP.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/HP2.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/HP3.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/VictoryBackground.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/VictoryBackground2.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/VictoryBackgroundStage2.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/VictoryBackgroundStage3.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/VictoryBackgroundStage4.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/BG/VictoryFinal.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/black.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/Catapult.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/FallenAgSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/FallenAgSta2.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/FallenAgSta3.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/Tower.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/Town1.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/Town2.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/Town3.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/wall.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/Wall2.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Building/Wall3.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Buttons/btn-exit.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Buttons/btn-home.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Buttons/btn-play.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Card/card_backhole.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Card/card_bomb.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Card/card_burn.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Card/card_freeze.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Card/card_high-speed.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Card/card_lightning.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Card/card_MEME.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Card/card_repair.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Card/card_slow.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Card/card_spray.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/CircleSprite.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Eff/BlackHole.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Eff/Burn.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Eff/Explosion1.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Eff/Explosion3.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Eff/Freeze.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Eff/FreezeRe.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Eff/NewBlackHole.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Eff/Paralyze.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Eff/ParalyzeRe.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Eff/Thunder.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/EnemyAmmo/EBomb.PNG</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/EnemyAmmo/Enormal.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/EnemyAmmo/Ewall.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Font/font.spritefont</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/GroundSprite.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/1Sta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/2Sta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/3Sta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/4Sta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/5Sta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/BalSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/BombSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/BurnSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/EleSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/FreezeReSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/FreezeSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/NewBlackHoleSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/ParalyzeSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/ParalyzReSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/OriPic/SumSta.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/AmmoWheel2.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/AmmoWheelFit.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/AoeBomb.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/AoeBurn.PNG</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/AoeFreeze.PNG</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/AoeLightning.PNG</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/Blackhole.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/Bullet.PNG</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/Line.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/Slow.PNG</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/PlayerAmmo/WheelCase.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/rain.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/recblack.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/recgreen.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/red.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/BGM/BlackCauldron.mp3</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/BGM/DestinationEarth.mp3</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/BGM/Lose.mp3</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/BGM/MenuSong.mp3</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/BGM/PicoChaseFull.mp3</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/BGM/TheEnd.mp3</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/BGM/Win.mp3</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/SFX/Click.wav</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/SFX/Lose.wav</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/SFX/Win.wav</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/tier0.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/tier1.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/tier2.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/tier3.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Walk/1Walk.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Walk/2Walk.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Walk/3Walk.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Walk/4Walk.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Walk/5Walk.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Walk/BalloonFly.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Walk/EleWalk.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Walk/SummonerWalk.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/white.png</File>
+    <File>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/yellow.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Sounds/SFX/Click.wav</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>EnemyAmmo/Efly.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

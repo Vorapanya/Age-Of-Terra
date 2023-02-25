@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/Sounds/BGM/BlackCauldron.mp3</SourceFile>
+  <SourceTime>2022-05-22T16:01:47.795122+07:00</SourceTime>
+  <DestFile>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/bin/DesktopGL/Content/Sounds/BGM/BlackCauldron.xnb</DestFile>
+  <DestTime>2022-05-22T16:03:02.8542795+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T23:17:54+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T23:17:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Latia/Desktop/comgame/AgeofTerra/Catap/Content/bin/DesktopGL/Content/Sounds/BGM/BlackCauldron.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

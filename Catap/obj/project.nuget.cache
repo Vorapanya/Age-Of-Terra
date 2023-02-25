@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "VkP4CmBRWIZYLaHLyGN3uGjeVGl2JkQQS5ERmzqUExox78MRJhRKKZjRe2W4nGRbtYfRTjKbzC89K7qPNif6XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Latia\\Desktop\\comgame\\AgeofTerra\\Catap\\Catap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Latia\\.nuget\\packages\\aether.physics2d.diagnostics.mg\\1.6.1\\aether.physics2d.diagnostics.mg.1.6.1.nupkg.sha512",
+    "C:\\Users\\Latia\\.nuget\\packages\\aether.physics2d.mg\\1.6.1\\aether.physics2d.mg.1.6.1.nupkg.sha512",
+    "C:\\Users\\Latia\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Latia\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Latia\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.22\\microsoft.netcore.app.runtime.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Latia\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.22\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Latia\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.22\\microsoft.aspnetcore.app.runtime.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Latia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

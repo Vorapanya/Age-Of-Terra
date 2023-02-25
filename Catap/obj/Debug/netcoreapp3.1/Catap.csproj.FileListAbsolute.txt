@@ -1,0 +1,753 @@
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\DiagnosticsFont.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.exe
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.deps.json
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.json
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.dev.json
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.dll
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.Diagnostics.dll
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.dll
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Latia\Desktop\comgame\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.AssemblyReference.cache
+C:\Users\Latia\Desktop\comgame\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latia\Desktop\comgame\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfoInputs.cache
+C:\Users\Latia\Desktop\comgame\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfo.cs
+C:\Users\Latia\Desktop\comgame\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.CoreCompileInputs.cache
+C:\Users\Latia\Desktop\comgame\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.dll
+C:\Users\Latia\Desktop\comgame\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.genruntimeconfig.cache
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\CircleSprite.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\GroundSprite.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\1024px-Light_Blue_Circle.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\yellow.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\black.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\red.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\recblack.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\recgreen.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\rain.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\white.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\tier0.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\tier1.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\tier2.xnb
+C:\Users\Latia\Desktop\comgame\Catap\Catap\bin\Debug\netcoreapp3.1\Content\tier3.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\DiagnosticsFont.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\1024px-Light_Blue_Circle.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\black.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\CircleSprite.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\GroundSprite.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\rain.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\recblack.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\recgreen.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\red.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\tier0.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\tier1.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\tier2.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\tier3.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\white.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\yellow.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.exe
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.deps.json
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.json
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.dev.json
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.dll
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.Diagnostics.dll
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.dll
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\vorap\Desktop\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.AssemblyReference.cache
+C:\Users\vorap\Desktop\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorap\Desktop\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfoInputs.cache
+C:\Users\vorap\Desktop\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfo.cs
+C:\Users\vorap\Desktop\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.CoreCompileInputs.cache
+C:\Users\vorap\Desktop\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.CopyComplete
+C:\Users\vorap\Desktop\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.dll
+C:\Users\vorap\Desktop\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\vorap\Desktop\Catap\Catap\obj\Debug\netcoreapp3.1\Catap.genruntimeconfig.cache
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Atk\1Attack.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Atk\2Attack.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Atk\3Attack.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Atk\4Attack.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Atk\5Attack.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Eff\BlackHole.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Burn.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion1.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion3.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Freeze.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Thunder.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Walk\1Walk.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Walk\2Walk.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Walk\3Walk.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Walk\4Walk.xnb
+C:\Users\vorap\Desktop\Catap\Catap\bin\Debug\netcoreapp3.1\Content\Walk\5Walk.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\DiagnosticsFont.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\1024px-Light_Blue_Circle.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\1Attack.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\2Attack.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\3Attack.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\4Attack.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\5Attack.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\black.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\CircleSprite.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\BlackHole.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Burn.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion1.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion3.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Freeze.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Thunder.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\GroundSprite.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\rain.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\recblack.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\recgreen.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\red.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier0.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier1.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier2.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier3.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\1Walk.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\2Walk.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\3Walk.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\4Walk.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\5Walk.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\white.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\yellow.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.exe
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.deps.json
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.json
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.dev.json
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.dll
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.Diagnostics.dll
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.dll
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.AssemblyReference.cache
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfoInputs.cache
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfo.cs
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.CoreCompileInputs.cache
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.CopyComplete
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.dll
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.genruntimeconfig.cache
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\wall.xnb
+C:\Users\vorap\Source\Repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Catapult.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town1.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Tower.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\BalloonFly.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\EleWalk.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\SummonerWalk.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG1.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG2.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG3.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG4.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\EBomb.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Enormal.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Ewall.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeBomb.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeBurn.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeFreeze.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeLightning.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Blackhole.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Bullet.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Line.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Slow.xnb
+C:\Users\vorap\source\repos\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Efly.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.AssemblyReference.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\obj\Debug\netcoreapp3.1\Catap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfoInputs.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfo.cs
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.CoreCompileInputs.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\obj\Debug\netcoreapp3.1\Catap.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\obj\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\DiagnosticsFont.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\1024px-Light_Blue_Circle.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Atk\1Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Atk\2Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Atk\3Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Atk\4Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Atk\5Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Atk\EleAttack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Atk\SummonerAttack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG4.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\black.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Building\Catapult.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Building\Tower.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Building\wall.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\CircleSprite.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Eff\BlackHole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Burn.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Freeze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Thunder.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\EBomb.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Efly.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Enormal.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Ewall.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\GroundSprite.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\1Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\2Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\3Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\4Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\5Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BalSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\EleSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\SumSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeBomb.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeBurn.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeFreeze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeLightning.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Blackhole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Bullet.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Line.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Slow.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\rain.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\recblack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\recgreen.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\red.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\tier0.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\tier1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\tier2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\tier3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Walk\1Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Walk\2Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Walk\3Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Walk\4Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Walk\5Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Walk\BalloonFly.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Walk\EleWalk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Walk\SummonerWalk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\white.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\yellow.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Catap.exe
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Catap.deps.json
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.json
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.dev.json
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Catap.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.Diagnostics.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\obj\Debug\netcoreapp3.1\Catap.genruntimeconfig.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Walk\ElepWalk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BombSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Paralyze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\FreezeSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\ParalyzeSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BurnSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Eff\NewBlackHole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\NewBlackHoleSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackground.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Building\FallenAgSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Font\File.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Font\font.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AmmoWheel2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AmmoWheelFit.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\WheelCase.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Eff\FreezeRe.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Eff\ParalyzeRe.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\FreezeReSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\ParalyzReSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\HP.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Building\Wall2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Building\Wall3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_backhole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_bomb.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_burn.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_freeze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_high-speed.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_lightning.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_MEME.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_repair.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_slow.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_spray.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackground2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background4.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG4.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Ewall.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Font\File.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Walk\ElepWalk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\DiagnosticsFont.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\1024px-Light_Blue_Circle.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Atk\1Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Atk\2Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Atk\3Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Atk\4Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Atk\5Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Atk\EleAttack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Atk\SummonerAttack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background4.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\HP.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackground.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackground2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\black.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\Catapult.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\FallenAgSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\Tower.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\wall.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\Wall2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\Wall3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_backhole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_bomb.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_burn.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_freeze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_high-speed.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_lightning.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_MEME.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_repair.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_slow.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_spray.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\CircleSprite.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Eff\BlackHole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Burn.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Freeze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Eff\FreezeRe.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Eff\NewBlackHole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Paralyze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Eff\ParalyzeRe.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Thunder.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\EBomb.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Efly.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Enormal.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Font\font.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\GroundSprite.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\1Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\2Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\3Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\4Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\5Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BalSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BombSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BurnSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\EleSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\FreezeReSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\FreezeSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\NewBlackHoleSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\ParalyzeSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\ParalyzReSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\SumSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AmmoWheel2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AmmoWheelFit.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeBomb.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeBurn.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeFreeze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeLightning.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Blackhole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Bullet.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Line.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Slow.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\WheelCase.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\rain.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\recblack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\recgreen.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\red.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\tier0.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\tier1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\tier2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\tier3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Walk\1Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Walk\2Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Walk\3Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Walk\4Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Walk\5Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Walk\BalloonFly.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Walk\EleWalk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Walk\SummonerWalk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\white.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\yellow.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Catap.exe
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Catap.deps.json
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.json
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.dev.json
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Catap.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.Diagnostics.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.AssemblyReference.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\obj\Debug\netcoreapp3.1\Catap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfoInputs.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfo.cs
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.CoreCompileInputs.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\obj\Debug\netcoreapp3.1\Catap.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\obj\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\obj\Debug\netcoreapp3.1\Catap.genruntimeconfig.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\HP2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\HP3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\FallenAgSta2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\Building\FallenAgSta3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackgroundStage2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackgroundStage3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra1 - Copy\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackgroundStage4.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG1.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG2.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG3.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG4.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Ewall.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Font\File.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\ElepWalk.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\DiagnosticsFont.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\1024px-Light_Blue_Circle.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\1Attack.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\2Attack.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\3Attack.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\4Attack.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\5Attack.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\EleAttack.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\SummonerAttack.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background1.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background2.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background3.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background4.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\HP.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\HP2.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\HP3.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackground.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackground2.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackgroundStage2.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackgroundStage3.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackgroundStage4.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\black.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Catapult.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\FallenAgSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\FallenAgSta2.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\FallenAgSta3.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Tower.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town1.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town2.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town3.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\wall.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Wall2.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Wall3.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Buttons\btn-exit.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Buttons\btn-play.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Buttons\btn.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_backhole.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_bomb.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_burn.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_freeze.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_high-speed.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_lightning.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_MEME.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_repair.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_slow.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_spray.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\CircleSprite.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\BlackHole.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Burn.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion1.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion3.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Freeze.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\FreezeRe.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\NewBlackHole.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Paralyze.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\ParalyzeRe.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Thunder.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\EBomb.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Efly.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Enormal.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Font\font.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\GroundSprite.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\1Sta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\2Sta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\3Sta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\4Sta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\5Sta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BalSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BombSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BurnSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\EleSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\FreezeReSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\FreezeSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\NewBlackHoleSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\ParalyzeSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\ParalyzReSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\SumSta.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AmmoWheel2.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AmmoWheelFit.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeBomb.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeBurn.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeFreeze.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeLightning.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Blackhole.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Bullet.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Line.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Slow.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\WheelCase.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\rain.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\recblack.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\recgreen.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\red.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\BlackCauldron.ogg
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\BlackCauldron.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\DestinationEarth.ogg
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\DestinationEarth.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\PicoChaseFull.ogg
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\PicoChaseFull.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\SFX\Click.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\SFX\Lose.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\SFX\Win.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier0.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier1.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier2.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier3.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\1Walk.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\2Walk.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\3Walk.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\4Walk.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\5Walk.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\BalloonFly.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\EleWalk.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\SummonerWalk.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\white.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\yellow.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.exe
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.deps.json
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.json
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.dev.json
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.dll
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.Diagnostics.dll
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.dll
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\justg\Desktop\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.AssemblyReference.cache
+C:\Users\justg\Desktop\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justg\Desktop\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfoInputs.cache
+C:\Users\justg\Desktop\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfo.cs
+C:\Users\justg\Desktop\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.CoreCompileInputs.cache
+C:\Users\justg\Desktop\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.CopyComplete
+C:\Users\justg\Desktop\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.dll
+C:\Users\justg\Desktop\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\justg\Desktop\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.genruntimeconfig.cache
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\Win.ogg
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\Win.xnb
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\TheEnd.ogg
+C:\Users\justg\Desktop\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\TheEnd.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\DiagnosticsFont.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\1024px-Light_Blue_Circle.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\1Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\2Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\3Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\4Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\5Attack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\EleAttack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Atk\SummonerAttack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\Background4.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\BG4.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\HP.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\HP2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\HP3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackground.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackground2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackgroundStage2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackgroundStage3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryBackgroundStage4.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\black.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Catapult.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\FallenAgSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\FallenAgSta2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\FallenAgSta3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Tower.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Town3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\wall.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Wall2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Building\Wall3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_backhole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_bomb.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_burn.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_freeze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_high-speed.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_lightning.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_MEME.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_repair.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_slow.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Card\card_spray.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\CircleSprite.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\BlackHole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Burn.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Explosion3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Freeze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\FreezeRe.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\NewBlackHole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Paralyze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\ParalyzeRe.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Eff\Thunder.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\EBomb.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Efly.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Enormal.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\EnemyAmmo\Ewall.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Font\File.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Font\font.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\GroundSprite.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\1Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\2Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\3Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\4Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\5Sta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BalSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BombSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\BurnSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\EleSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\FreezeReSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\FreezeSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\NewBlackHoleSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\ParalyzeSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\ParalyzReSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\OriPic\SumSta.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AmmoWheel2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AmmoWheelFit.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeBomb.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeBurn.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeFreeze.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\AoeLightning.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Blackhole.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Bullet.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Line.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\Slow.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\PlayerAmmo\WheelCase.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\rain.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\recblack.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\recgreen.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\red.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\BlackCauldron.ogg
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\BlackCauldron.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\DestinationEarth.ogg
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\DestinationEarth.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\PicoChaseFull.ogg
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\PicoChaseFull.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\TheEnd.ogg
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\TheEnd.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\Win.ogg
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\Win.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\SFX\Click.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\SFX\Lose.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\SFX\Win.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier0.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier1.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier2.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\tier3.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\1Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\2Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\3Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\4Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\5Walk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\BalloonFly.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\ElepWalk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\EleWalk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Walk\SummonerWalk.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\white.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\yellow.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.exe
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.deps.json
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.json
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.runtimeconfig.dev.json
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.Diagnostics.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Aether.Physics2D.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.AssemblyReference.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfoInputs.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.AssemblyInfo.cs
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.csproj.CoreCompileInputs.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.dll
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.pdb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\obj\Debug\netcoreapp3.1\Catap.genruntimeconfig.cache
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\GameOverBackground.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\VictoryFinal.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\BG\bgmenu.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Button\btn-exit.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Button\btn-home.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Button\btn-play.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\MenuSong.ogg
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\MenuSong.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Buttons\btn-exit.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Buttons\btn-home.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Buttons\btn-play.xnb
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\Lose.ogg
+C:\Users\Latia\Desktop\comgame\AgeofTerra\Catap\bin\Debug\netcoreapp3.1\Content\Sounds\BGM\Lose.xnb
